@@ -25,7 +25,7 @@
 ---
 
 ### 🛠️ Tech so far
-Python Fundametals • C • NumPy • Pandas • Matplotlib •Javascript Fundamentals
+Python Fundametals • C • NumPy • Pandas • Matplotlib
 
 ### 🛤️ Next steps
 ML • GIS automation • UNet • Google Earth Engine
